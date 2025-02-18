@@ -1,0 +1,27 @@
+,Column Name,Data Type Classification,Cardinality Classification
+0,gender,binary,low
+1,under_30,binary,low
+2,senior_citizen,binary,low
+3,dependents,binary,low
+4,country,categorical,low
+5,state,administrative_unit,low
+6,city,city,medium
+7,longitude,longitude,medium
+8,referred_a_friend,binary,low
+9,phone_service,binary,low
+10,multiple_lines,binary,low
+11,internet_type,categorical,low
+12,avg_monthly_gb_download,numerical,low
+13,online_security,binary,low
+14,online_backup,binary,low
+15,streaming_music,binary,low
+16,paperless_billing,binary,low
+17,payment_method,categorical,low
+18,quarter,categorical,low
+19,churn_label,binary,low
+20,cltv,numerical,medium
+21,tenure_months,numerical,low
+22,device_protection,categorical,low
+23,tech_support,categorical,low
+24,monthly_charges,numerical,medium
+25,population,numerical,medium
