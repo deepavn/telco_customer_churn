@@ -1,0 +1,27 @@
+numpy
+pandas
+pyarrow
+
+# Machine Learning Libraries
+xgboost
+catboost
+lightgbm
+shap
+scikit-learn
+
+# SDV Metadata
+sdv
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+keras
+torch
+
+# Profiling & Diagnostics
+ydata-profiling
+deepchecks
+statsmodels
